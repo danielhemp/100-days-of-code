@@ -10,10 +10,20 @@
 **Link to work:** https://github.com/danielhemp/100-days-of-code/tree/master/Projects/Rock%20Paper%20Sicissors
 
 
-### Day 0: August 22st 2022
+### Day 1: August 22nd 2022
 
 
 **Today's Progress**: built a simple Memory game in Javascript
+
+**Thoughts:** I will update this later with the correct link and full description. But it was fun to do. 
+
+**Link to work:** https://github.com/danielhemp/100-days-of-code/tree/master/Projects/Rock%20Paper%20Sicissors
+
+
+### Day 2: August 23rd 2022
+
+
+**Today's Progress**: built a whac-a-mole game in Javascript, without using any canvas
 
 **Thoughts:** I will update this later with the correct link and full description. But it was fun to do. 
 
