@@ -28,3 +28,13 @@
 **Thoughts:** I will update this later with the correct link and full description. But it was fun to do. 
 
 **Link to work:** https://github.com/danielhemp/100-days-of-code/tree/master/Projects/Rock%20Paper%20Sicissors
+
+
+### Day 3: August 24th 2022
+
+
+**Today's Progress**: I started to build a react for a game of "Story Cubes" or something like it.
+
+**Thoughts:** I created the react app base, and started to work on a little bit of the layout. I will get resources and logic tomorrow.
+
+**Link to work:** none yet
